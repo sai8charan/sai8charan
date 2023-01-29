@@ -1,9 +1,7 @@
 # Venkata Sai Charan Puthineedi
-
-Hi 👋,
-I am a passionate fullstack java developer at cognizant.
-Having 2️⃣➕ years of experience in working with java, springboot, spring jdbc and building the restful webservices.
-Intrested in learning 🆕 things and building🏗️ applications.
+Hi there👋! 
+I am a passionate full-stack Java developer working at Cognizant. I have over 2️⃣ years of experience working with Java, Spring Boot, Spring JDBC, and building RESTful web services.
+I am interested in continually learning new technologies and building🏗️ innovative applications.
 
 ## Contact Information📞
 - Email(✉️📫): puthineedivenkatasaicharan@gmail.com
