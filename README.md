@@ -34,3 +34,10 @@ I am interested in continually learning new technologies and building🏗️ inn
 
 -->
 ⭐️ From [Charan](https://github.com/sai8charan)
+
+[![Sai Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai8charan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8charan&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai8charan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
