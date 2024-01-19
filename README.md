@@ -1,6 +1,6 @@
 # Venkata Sai Charan Puthineedi
 Hi there👋! 
-I am a passionate full-stack Java developer working at Cognizant. I have over 2️⃣ years of experience working with Java, Spring Boot, Spring JDBC, and building RESTful web services.
+I am a passionate full-stack Java developer working at Opentext. I have over 3 years of experience working with Java, Spring Boot, Spring JDBC, and building RESTful web services.
 I am interested in continually learning new technologies and building🏗️ innovative applications.
 
 ## Contact Information📞
@@ -35,9 +35,11 @@ I am interested in continually learning new technologies and building🏗️ inn
 -->
 ⭐️ From [Charan](https://github.com/sai8charan)
 
-[![Sai Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai8charan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Sai Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai8charan&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8charan&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8charan&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai8charan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai8charan&layout=compact&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=sai8charan&color=blueviolet)
 
